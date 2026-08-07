@@ -1,0 +1,12 @@
+hi iam gowthami steps og git
+git init
+git add
+git status
+git branch
+git commmit -m "initial commit"
+add user name and mail which are created on github accout using git config --
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"
+ git remote add origin "https://github.com/Gowthamivenu/gowthami.git"
+check branch with git branch then push
+git push origin master
